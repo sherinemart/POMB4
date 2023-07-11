@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11753" started-at="2023-07-10T13:21:02 IST" finished-at="2023-07-10T13:21:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11753" started-at="2023-07-10T13:21:02 IST" finished-at="2023-07-10T13:21:14 IST">
+      <class name="testcase.Logintc">
+        <test-method status="PASS" signature="f()[pri:0, instance:testcase.Logintc@2286778]" name="f" duration-ms="11711" started-at="2023-07-10T13:21:02 IST" finished-at="2023-07-10T13:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testcase.Logintc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
